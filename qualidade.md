@@ -5,20 +5,20 @@ Antes mesmo de começar a falar sobre Testes, precisamos voltar um pouco e falar
 
 Para um cliente, ele quer que tudo esteja funcionando, que seja bonito e o principal, que ele não gaste muito com isso. O medidor de qualidade para o cliente é quando ele faz uma cara mais ou menos assim:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/376f506e-292d-4efc-aab0-fcbd38c79d9e/visao-cliente.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/376f506e-292d-4efc-aab0-fcbd38c79d9e/visao-cliente.gif)
+![Visão do cliente](./images/visao-cliente.gif)
 
 ## Qualidade para o chefe
 
 Já para o seu chefe/empresa, qualidade é quando você faz as coisas sem demorar muito ou ter que refazer. Quando ele consegue gerar lucros e o cliente está feliz. Uma imagem que demonstra muito bem o que importa (qualidade) para o seu chefe é:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4721d21-e1f3-422f-a769-fe92464b314a/visao-chefe.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4721d21-e1f3-422f-a769-fe92464b314a/visao-chefe.gif)
+![Visão do chefe](./images/visao-chefe.gif)
 
 ## Qualidade para o desenvolvedor
 
 Nós desenvolvedores, obviamente vamos ver qualidade no código. Quanto mais fácil de ler e 
 entender o código, mais qualidade ele tem para nós. Assim como ter uma boa documentação. Segue abaixo uma imagem que descreve bastante reações a códigos bons e ruins:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54c7f77b-aa7b-4dcb-b7d7-ad3fba819b92/visao-programador.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/54c7f77b-aa7b-4dcb-b7d7-ad3fba819b92/visao-programador.png)
+![Visão do programador](./images/visao-programador.png)
 
 ### Operação
 
