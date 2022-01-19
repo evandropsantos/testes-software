@@ -22,21 +22,21 @@ entender o código, mais qualidade ele tem para nós. Assim como ter uma boa doc
 
 ### Operação
 
-- `Corretitude`Ele faz o que é pedido?
-- `Confiabilidade` - Ele é preciso?
-- `Eficiência` - Ele tem boa performance?
-- `Integridade` - Oferece segurança?
-- `Usabilidade` - Fácil de usar?
-- `Adaptabilidade` - Ele se adapta as necessidades do usuário?
+- `Corretitude` <!-- Ele faz o que é pedido? -->
+- `Confiabilidade` <!-- Ele é preciso? -->
+- `Eficiência` <!-- Ele tem boa performance? -->
+- `Integridade` <!-- Oferece segurança? -->
+- `Usabilidade` <!-- Fácil de usar? -->
+- `Adaptabilidade` <!-- Ele se adapta as necessidades do usuário? -->
 
 ### Transição
 
-- `Portabilidade` - Consigo movê-lo facilmente?
-- `Reusabilidade` - Posso utilizar parte dele?
-- `Interoperabilidade` - Ele trabalha com outros softwares em conjunto?
+- `Portabilidade` <!-- Consigo movê-lo facilmente? -->
+- `Reusabilidade` <!-- Posso utilizar parte dele? -->
+- `Interoperabilidade` <!-- Ele trabalha com outros softwares  em conjunto? -->
 
 ### Revisão
 
-- `Manutenibilidade` - Fácil de corrigir?
-- `Flexibilidade` - Fácil de mudar?
-- `Testabilidade` - Posso testar seu funcionamento?
+- `Manutenibilidade` <!-- Fácil de corrigir? -->
+- `Flexibilidade` <!-- Fácil de mudar? -->
+- `Testabilidade` <!-- Posso testar seu funcionamento? -->
