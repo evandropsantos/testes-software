@@ -2,7 +2,6 @@
 - **describe:** Descreve os testes de um certo bloco;
 - **context:** Separa os casos de testes;
 - **it:** Corpo dos testes;
-- **yarn test —bail: Acha o primeiro erro, para a suíte de testes;
 - **skip:** Ignora um teste;
 - **only:** roda apenas um teste especifico.
 
@@ -31,10 +30,6 @@ describe('Main', () => {
     it('should bla', () => {
       expect(5 - 3).equal(2)
     })
-
-    // it.only('should bla', () => {
-    //   expect(5 - 3).equal(2)
-    // })
   })
 })
 ```
