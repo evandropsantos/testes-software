@@ -11,7 +11,7 @@ Será o responsável pelas nossas acessões.
 
 ## Sinon
 
-Responsável pelos mocks, spies e stubs.
+Responsável pelos mocks, spies.
 
 [https://sinonjs.org](https://sinonjs.org/)
 
